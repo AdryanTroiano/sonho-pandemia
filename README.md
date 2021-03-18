@@ -1,2 +1,2 @@
 # sonho-pandemia
-Acess: https://adryantroiano.github.io/sonho-pandemia/
+Access: https://adryantroiano.github.io/sonho-pandemia/
